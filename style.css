@@ -118,6 +118,7 @@
             width: 100px;
             height: 100px;
             display: flex;
+            max-width: 200px;
         }
 
         .logo-icon {
@@ -266,6 +267,7 @@
             height: 50%;
             width: 50%;
             position: relative;
+            padding: 10px;
         }
 
         /* Services Section */
@@ -593,4 +595,5 @@
             }
 
         }
+
 
