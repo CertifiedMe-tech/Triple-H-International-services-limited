@@ -250,18 +250,6 @@
             flex-shrink: 0;
         }
 
-        .about-image {
-            flex: 1;
-            height: 400px;
-            background-color: #e9ecef;
-            border-radius: 10px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: var(--gray);
-            font-size: 18px;
-            border: 2px dashed #ced4da;
-        }
 
         .about-image {
             height: 50%;
@@ -595,5 +583,6 @@
             }
 
         }
+
 
 
