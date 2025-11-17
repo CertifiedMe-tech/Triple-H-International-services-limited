@@ -115,8 +115,8 @@
         }
 
         .logo {
-            width: 100px;
-            height: 100px;
+            width: 20%;
+            height: auto;
             display: flex;
         }
 
@@ -263,8 +263,8 @@
         }
 
         .about-image {
-            border-bottom: 25%;
-            border-top: 25%;
+            height: 50%;
+            width: 50%;
             position: relative;
         }
 
@@ -591,4 +591,5 @@
             .service-content, .contact-form {
                 padding: 20px;
             }
+
         }
