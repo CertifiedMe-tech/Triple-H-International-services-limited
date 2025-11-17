@@ -115,8 +115,8 @@
         }
 
         .logo {
-            width: 20%;
-            height: auto;
+            width: 100px;
+            height: 100px;
             display: flex;
         }
 
@@ -593,3 +593,4 @@
             }
 
         }
+
